@@ -1,0 +1,4 @@
+# Root folder constants
+BLADENG_ROOT="${ENVIRONMENT_ROOT}/bladeng/"
+GAMEDEV_ROOT="${ENVIRONMENT_ROOT}/gamedev/"
+ANDROID_ROOT="${ENVIRONMENT_ROOT}/android/"
